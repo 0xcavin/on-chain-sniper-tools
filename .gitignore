@@ -1,0 +1,26 @@
+# Never commit keys, seeds, or backups. Ever.
+*.pem
+*.key
+id_rsa*
+*secret*
+*seed*
+*mnemonic*
+*-backup.json
+*.bw
+.env
+.env.*
+credentials*
+node_modules/
+
+
+
+
+
+
+
+
+
+
+
+
+
