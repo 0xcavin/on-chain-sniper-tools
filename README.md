@@ -112,4 +112,4 @@ paste a seed.
 
 ## License
 
-MIT — see `LICENSE` (to be added on publish; the package declares MIT).
+MIT — see `LICENSE`.
